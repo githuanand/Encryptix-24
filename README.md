@@ -35,6 +35,7 @@ Display the Password: Print the generated password on the screen.
 
 TASK 4
 Rock-Paper-Scissors Game
+
 User Input: Prompt the user to choose rock, paper, or scissors.
 Computer Selection: Generate a random choice (rock, paper, or scissors)
 for the computer.
